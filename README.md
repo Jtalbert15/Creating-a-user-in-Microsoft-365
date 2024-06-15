@@ -1,7 +1,14 @@
 # Creating-a-user-in-Microsoft-365
-In this lab we are going to create a user in Microsoft 365 using the  Microsoft 365 admin center
 
-To start we need to start a trial to do this navigate here <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial">here</a>
+<img width="298" alt="Screenshot 2024-06-15 at 3 47 39 PM" src="https://github.com/Jtalbert15/Creating-a-user-in-Microsoft-365/assets/66844406/95ba1834-4e69-46ca-a6f5-eb3ea6470068">
+
+<h1>Summary</h1>
+
+In this Lab we will go over how to get a free trial of Microsoft 365. Using this trial we will create a new user and assign them a license.
+
+<h1>Step 1) Starting a Free Trial of Microsoft 365</h1>
+
+To start we need to start a trial to do this navigate <a href="https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial">here</a>
 
 <img width="889" alt="Screenshot 2024-05-25 at 6 09 36 PM" src="https://github.com/Jtalbert15/Creating-a-user-in-Microsoft-365/assets/66844406/0a1511cf-c9f5-4eea-880e-d48e63ecd7e3">
 
@@ -11,6 +18,8 @@ You will need a credit/debit card for this trial but you can cancel before the m
 
 <img width="890" alt="Screenshot 2024-05-25 at 6 11 49 PM" src="https://github.com/Jtalbert15/Creating-a-user-in-Microsoft-365/assets/66844406/71db1f33-5b49-442c-965c-12260d6de906">
 
+<h1>Step 2) Creating a user in Microsoft 365</h1>
+
 Once you are done filling out your information you can navigate to the admin center as seen above.
 
 I have found I prefer the dashboard view so I will click on the downward arrow next to simplified view 
@@ -19,9 +28,9 @@ Then you can select Dashboard View
 
 <img width="892" alt="Screenshot 2024-05-25 at 6 14 50 PM" src="https://github.com/Jtalbert15/Creating-a-user-in-Microsoft-365/assets/66844406/4130ada4-9185-44d1-88a3-2c48b6e4a0d3">
 
-Now lets create a user
+<h1>Step 3) Creating a User</h1>
 
-Clickk on the add user button at the center middle of the screen
+Click on the add user button at the center middle of the screen
 
 <img width="889" alt="Screenshot 2024-05-25 at 6 15 48 PM" src="https://github.com/Jtalbert15/Creating-a-user-in-Microsoft-365/assets/66844406/3848d60b-daa3-4827-8598-e8288fbe5768">
 
